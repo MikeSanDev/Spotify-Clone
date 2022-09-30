@@ -1,0 +1,28 @@
+.login {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    background-color: #000;
+
+}
+    /* if you use display:grid, place-items:center 
+    /* spaces everything out on center as seen on google talk  */
+
+
+.login > img {
+    width: 75%;
+    
+}
+/* adding ^ helps fit the banner across  the whole page */
+
+
+.login > a {
+    padding: 20px; 
+    color: white;
+    font-weight: 800px;
+    border-radius: 99px;
+    text-decoration: none;
+    background-color: #1bd954;
+}
+
+
