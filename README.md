@@ -15,3 +15,4 @@ React, Node.js, Material.UI, Context API, Spotify API
 ![dash_spotify](https://user-images.githubusercontent.com/96930354/197683505-6154a0f0-1b8a-4893-877f-f21bedcf2bfb.gif)
 ![comparison](https://user-images.githubusercontent.com/96930354/197683273-f96bbf1c-4fa9-472d-9aff-d23a746eeb73.gif)
 
+This is a comparison between my clone and the actual spotify website ^
