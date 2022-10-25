@@ -1,4 +1,4 @@
-*Spotify Clone
+# Spotify Clone
 Created a clone of the discovery page from Spotify. I used the Spotify for Developers API to allow access to my account. Authentication is run through them and I was able to display my Discovery Playlist. I Utilized Context API to share states across all of the components.
 
 *Please download the node modules in order to run the app*
